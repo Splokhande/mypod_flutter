@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "204903004802",
+    "project_id": "serverpod-iot",
+    "storage_bucket": "serverpod-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204903004802:android:09b5ed065eb14446a2d29b",
+        "android_client_info": {
+          "package_name": "com.app.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204903004802-natl8f9or2j0s0v7uva28dbu0tp1is0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iot",
+            "certificate_hash": "73edc87f2ecba5e822a86310d8aa9976b480fc36"
+          }
+        },
+        {
+          "client_id": "204903004802-6ss8v6tfh6l8b72pnc1a20fv2i97ph5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ct7khUIjqT1W7PLlfueTLqDrhqCGuO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204903004802-6ss8v6tfh6l8b72pnc1a20fv2i97ph5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204903004802-i45vmu929qi2qduaqs0uffpoadi43hli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mypodFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>204903004802-i45vmu929qi2qduaqs0uffpoadi43hli.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.204903004802-i45vmu929qi2qduaqs0uffpoadi43hli</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>204903004802-natl8f9or2j0s0v7uva28dbu0tp1is0g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChc6enDY5A1iJUFjDODgaCmtnJ4kqTfxo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>204903004802</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.iot</string>
+	<key>PROJECT_ID</key>
+	<string>serverpod-iot</string>
+	<key>STORAGE_BUCKET</key>
+	<string>serverpod-iot.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:204903004802:ios:df0d7d55ac699636a2d29b</string>
+</dict>
+</plist>
